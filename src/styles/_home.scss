@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('../assets/images/background-image.jpg') no-repeat center center/cover; // убедитесь, что путь правильный
+  color: #fff;
+  text-align: center;
+
+  .content {
+    background: rgba(0, 0, 0, 0.5); // Темный прозрачный фон для улучшения читаемости текста
+    padding: 5rem;
+    border-radius: 10px;
+
+    h1 {
+      font-size: 4rem;
+      font-family: 'Bebas Neue', sans-serif;
+      margin-bottom: 1rem;
+    }
+
+    p {
+      font-size: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .shop-button {
+      padding: 1rem 2rem;
+      font-size: 1.5rem;
+      font-family: 'Bebas Neue', sans-serif;
+      color: #000;
+      background-color: #fff;
+      border: none;
+      border-radius: 30px;
+      cursor: pointer;
+      transition: transform 0.3s;
+
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+  }
+}
