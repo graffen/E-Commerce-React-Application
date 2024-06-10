@@ -4,6 +4,7 @@ This is a simple e-commerce application built with React. It allows users to bro
 ## Features
 - Browse products
 - View product details
+<<<<<<< HEAD
 - Add products to the shopping cart
 - Remove products from the shopping cart
 - View cart summary and total price
@@ -15,6 +16,12 @@ This is a simple e-commerce application built with React. It allows users to bro
 - SCSS
 
 
+=======
+- Add products to the shopping cart
+- Remove products from the shopping cart
+- View cart summary and total price
+- Clear the shopping cart
+>>>>>>> 5cb92ce330c6d5ed4e6bb86d48f9f51329dd851d
 
 ## Installation
 Clone the repository:
@@ -47,6 +54,9 @@ yarn start
 This will start the application on  [http://localhost:3000](http://localhost:3000).
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 5cb92ce330c6d5ed4e6bb86d48f9f51329dd851d
