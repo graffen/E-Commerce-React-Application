@@ -9,7 +9,7 @@ This is a simple e-commerce application built with React. It allows users to bro
 - View cart summary and total price
 - Clear the shopping cart
 
-## Technology Stack
+## Technology Stack:
 - React
 - react-router-dom
 - SCSS
