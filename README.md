@@ -10,9 +10,9 @@ This is a simple e-commerce application built with React. It allows users to bro
 - Clear the shopping cart
 
 ## Technology Stack:
-- React
-- react-router-dom
-- SCSS
+* React
+* react-router-dom
+* SCSS
 
 
 
