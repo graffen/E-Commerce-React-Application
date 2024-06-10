@@ -2,19 +2,19 @@
 This is a simple e-commerce application built with React. It allows users to browse products, view product details, and manage their shopping cart.
 
 ## Features
-— Browse products
-— View product details
-— Add products to the shopping cart
-— Remove products from the shopping cart
-— View cart summary and total price
-— Clear the shopping cart
+- Browse products
+- View product details
+- Add products to the shopping cart
+- Remove products from the shopping cart
+- View cart summary and total price
+- Clear the shopping cart
 
 ## Technology Stack
 
 # Frontend:
-— React
-— react-router-dom
-— SCSS
+- React
+- react-router-dom
+- SCSS
 
 
 
@@ -49,6 +49,3 @@ yarn start
 This will start the application on  [http://localhost:3000](http://localhost:3000).
 
 
-
-
-# E-Commerce-React-Application
