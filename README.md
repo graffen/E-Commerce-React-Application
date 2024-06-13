@@ -18,7 +18,7 @@ This is a simple e-commerce application built with React. It allows users to bro
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/graffen/e-commerce.git
+git clone https://github.com/graffen/E-Commerce-React-Application.git
 ```
 
 Navigate to the project directory:
